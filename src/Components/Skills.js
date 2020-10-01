@@ -48,6 +48,7 @@ class Skills extends Component {
                 <li>Node.js</li>
                 <li>Express.js</li>
                 <li>REST APIs</li>
+                <li>Firebase</li>
                 <li>PostgreSQL</li>
                 <li>MongoDB</li>
                 <li>Python</li>

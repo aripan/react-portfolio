@@ -96,31 +96,36 @@
         "title": "Games with JS",
         "category": "Rock, Paper, Scissor and Black Jack Games(JS, Bootstrap4)",
         "image": "project1.JPG",
-        "url": "https://aripan.github.io/rps_bj/"
+        "url": "https://aripan.github.io/rps_bj/",
+        "source": "https://github.com/aripan/rps_bj"
       },
       {
         "title": "My Blog App",
         "category": "lorem ipsum Lorem ipsum dolor sit, amet consectetur adipisicing elit. Excepturi neque, ipsa animi maiores repellendus distinctio aperiam earum dolor voluptatum consequatur blanditiis (NodeJS, ExpressJS)",
         "image": "project2.JPG",
-        "url": "https://aripan.github.io/Blog-App/"
+        "url": "https://aripan.github.io/Blog-App/",
+        "source": "https://github.com/aripan/rps_bj"
+      },
+      {
+        "title": "TreatUrHunger Restaurant",
+        "category": "lorem ipsum Lorem ipsum dolor sit, amet consectetur adipisicing elit. Excepturi neque, ipsa animi maiores repellendus distinctio aperiam earum dolor voluptatum consequatur blanditiis",
+        "image": "treaturhunger.JPG",
+        "url": "https://treaturhunger.herokuapp.com/",
+        "source": "https://github.com/aripan/treatUrHunger_Frontend"
+      },
+      {
+        "title": "Amazon-Clone",
+        "category": "lorem ipsum Lorem ipsum dolor sit, amet consectetur adipisicing elit. Excepturi neque, ipsa animi maiores repellendus distinctio aperiam earum dolor voluptatum consequatur blanditiis",
+        "image": "amazon-clone.JPG",
+        "url": "https://react--clone-c8de9.web.app/",
+        "source": "https://github.com/aripan/React-Amazon-Clone"
       },
       {
         "title": "Project Title",
         "category": "lorem ipsum Lorem ipsum dolor sit, amet consectetur adipisicing elit. Excepturi neque, ipsa animi maiores repellendus distinctio aperiam earum dolor voluptatum consequatur blanditiis",
         "image": "projectToBeDone.jpg",
-        "url": "#"
-      },
-      {
-        "title": "Project Title",
-        "category": "lorem ipsum Lorem ipsum dolor sit, amet consectetur adipisicing elit. Excepturi neque, ipsa animi maiores repellendus distinctio aperiam earum dolor voluptatum consequatur blanditiis",
-        "image": "projectToBeDone.jpg",
-        "url": "#"
-      },
-      {
-        "title": "Project Title",
-        "category": "lorem ipsum Lorem ipsum dolor sit, amet consectetur adipisicing elit. Excepturi neque, ipsa animi maiores repellendus distinctio aperiam earum dolor voluptatum consequatur blanditiis",
-        "image": "projectToBeDone.jpg",
-        "url": "#"
+        "url": "#",
+        "source": "#"
       }
     ]
   },

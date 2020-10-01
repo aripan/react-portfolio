@@ -16,9 +16,19 @@ class Portfolio extends Component {
                     <p>{projects.category}</p>
                   </div>
                 </div>
+
                 <div className="link-icon">
                   <i className="fa fa-link"></i>
                 </div>
+              </a>
+            </div>
+
+            <div className="source-code">
+              <a href={projects.source}>
+                {" "}
+                <span>
+                  &#128071;&#127995;<h3> Source Code</h3>
+                </span>
               </a>
             </div>
           </div>
