@@ -27,11 +27,7 @@
         "url": "https://www.linkedin.com/",
         "className": "fa fa-linkedin"
       },
-      {
-        "name": "instagram",
-        "url": "https://www.instagram.com/",
-        "className": "fa fa-instagram"
-      },
+
       {
         "name": "github",
         "url": "http://github.com/aripan/",
@@ -93,26 +89,13 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Games with JS",
-        "category": "Rock, Paper, Scissor and Black Jack Games(JS, Bootstrap4)",
-        "image": "project1.JPG",
-        "url": "https://aripan.github.io/rps_bj/",
-        "source": "https://github.com/aripan/rps_bj"
-      },
-      {
-        "title": "My Blog App",
-        "category": "lorem ipsum Lorem ipsum dolor sit, amet consectetur adipisicing elit. Excepturi neque, ipsa animi maiores repellendus distinctio aperiam earum dolor voluptatum consequatur blanditiis (NodeJS, ExpressJS)",
-        "image": "project2.JPG",
-        "url": "https://aripan.github.io/Blog-App/",
-        "source": "https://github.com/aripan/rps_bj"
-      },
-      {
         "title": "TreatUrHunger Restaurant",
         "category": "lorem ipsum Lorem ipsum dolor sit, amet consectetur adipisicing elit. Excepturi neque, ipsa animi maiores repellendus distinctio aperiam earum dolor voluptatum consequatur blanditiis",
         "image": "treaturhunger.JPG",
         "url": "https://treaturhunger.herokuapp.com/",
         "source": "https://github.com/aripan/treatUrHunger_Frontend"
       },
+
       {
         "title": "Amazon-Clone",
         "category": "lorem ipsum Lorem ipsum dolor sit, amet consectetur adipisicing elit. Excepturi neque, ipsa animi maiores repellendus distinctio aperiam earum dolor voluptatum consequatur blanditiis",
@@ -120,6 +103,31 @@
         "url": "https://react--clone-c8de9.web.app/",
         "source": "https://github.com/aripan/React-Amazon-Clone"
       },
+
+      {
+        "title": "My Blog App",
+        "category": "lorem ipsum Lorem ipsum dolor sit, amet consectetur adipisicing elit. Excepturi neque, ipsa animi maiores repellendus distinctio aperiam earum dolor voluptatum consequatur blanditiis (NodeJS, ExpressJS)",
+        "image": "myblogapp.JPG",
+        "url": "https://aripan.github.io/Blog-App/",
+        "source": "https://github.com/aripan/Blog-App"
+      },
+
+      {
+        "title": "Black Jack",
+        "category": "Black Jack Games",
+        "image": "blackJack.JPG",
+        "url": "https://aripan.github.io/black_jack/",
+        "source": "https://github.com/aripan/black_jack"
+      },
+
+      {
+        "title": "Rock, Paper & Scissor",
+        "category": "lorem ipsum Lorem ipsum dolor sit, amet consectetur adipisicing elit. Excepturi neque, ipsa animi maiores repellendus distinctio aperiam earum dolor voluptatum consequatur blanditiis",
+        "image": "rps.jpg",
+        "url": "https://aripan.github.io/rock_paper_scissor/",
+        "source": "https://github.com/aripan/rock_paper_scissor"
+      },
+
       {
         "title": "Project Title",
         "category": "lorem ipsum Lorem ipsum dolor sit, amet consectetur adipisicing elit. Excepturi neque, ipsa animi maiores repellendus distinctio aperiam earum dolor voluptatum consequatur blanditiis",

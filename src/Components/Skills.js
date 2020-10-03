@@ -64,6 +64,7 @@ class Skills extends Component {
                 <li>NPM</li>
                 <li>Webpack</li>
                 <li>Gulp</li>
+                <li>Postman</li>
               </ul>
             </div>
           </div>
