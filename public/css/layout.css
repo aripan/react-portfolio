@@ -36,6 +36,7 @@ header {
   min-height: 500px;
   width: 100%;
   background: #161415 url(../images/bg2.jpg) no-repeat top center;
+
   background-size: cover !important;
   -webkit-background-size: cover !important;
   text-align: center;
@@ -49,6 +50,7 @@ header:before {
   vertical-align: middle;
   height: 100%;
 }
+
 header .banner {
   display: inline-block;
   vertical-align: middle;
@@ -79,7 +81,7 @@ header .banner-text h3 {
 header .banner-text h3 span,
 header .banner-text h3 a {
   color: #eee;
-  font-weight: 600;
+  font-weight: 700;
 }
 header .banner-text hr {
   width: 60%;
@@ -228,8 +230,10 @@ ul#nav li.current a {
   margin-bottom: 12px;
 }
 #about p {
-  line-height: 30px;
+  /* line-height: 30px; */
+  line-height: 1.5em;
   color: #f5e3e3;
+  text-align: justify;
 }
 #about .profile-pic {
   position: relative;
@@ -606,8 +610,13 @@ ul#nav li.current a {
   color: #fff;
 }
 .portfolio-item .portfolio-item-meta p {
-  font: 12px/18px "opensans-light", sans-serif;
-  color: #c6c7c7;
+  /* font: 12px/18px "opensans-light", sans-serif; */
+  font: 14px/21px "opensans-light", sans-serif;
+
+  /* color: #c6c7c7; */
+  color: rgb(247, 238, 238);
+  font-style: italic;
+  line-height: 2rem;
   margin-bottom: 0;
 }
 
@@ -1040,7 +1049,8 @@ call-to-action .button {
 #contact textarea,
 #contact select {
   padding: 18px 20px;
-  color: #eee;
+  /* color: #eee; */
+  color: black;
   background: #dbd8d9;
   margin-bottom: 42px;
   border: 0;

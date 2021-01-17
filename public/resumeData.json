@@ -2,29 +2,31 @@
   "main": {
     "name": "Md Asaduzzaman Ripan",
     "occupation": "Front End Developer",
-    "description": "I Love everything about coding and passionate of solving critical problems.",
-    "image": "profile.jpg",
-    "bio": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.Excepturi neque, ipsa animi maiores repellendus distinctioaperiam earum dolor voluptatum consequatur blanditiisinventore debitis fuga numquam voluptate ex architectoitaque molestiae. ",
+    "description": "Love to build things with code and passionate of solving critical problems",
+    "image": "photo.jpg",
+    "bioUp": "I am a Web Developer with enthusiasm and focus on Frontend Development. My coding journey started during my M.Sc. in Computational Mechanics, where i have been introduced with the core structures such as data structure, algorithms, implementation and coding of algorithms for differential problems. Then the deciding factors were my student jobs and master thesis work where i had the chance to work in software development.",
+    "bioMid": "Then i realized that i love to code and build stuffs. So what could be a good choice rather than the web development, where i can see my works live. ",
+    "bioBot": "I am passionate about building scalable software, creating effective solutions and learning every day to grow professionally in the IT field.",
     "contactmessage": "Get in touch with me to receive further details. I would be happy to work with you.",
     "email": "aripan017@gmail.com",
     "phone": "+4917636715365",
     "address": {
-      "street": "Schleizer Str. 37",
-      "city": "Hof",
+      "street": "Gladbacher Str. 218",
+      "city": "Krefeld",
       "state": "Germany",
-      "zip": "95028"
+      "zip": "47805"
     },
     "website": "#",
-    "resumedownload": "#",
+    "resumedownload": "CV.pdf",
     "social": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/",
+        "url": "https://www.facebook.com/ar.rudra",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/",
+        "url": "https://www.linkedin.com/in/mdripan",
         "className": "fa fa-linkedin"
       },
 
@@ -90,15 +92,26 @@
     "projects": [
       {
         "title": "TreatUrHunger Restaurant",
-        "category": "lorem ipsum Lorem ipsum dolor sit, amet consectetur adipisicing elit. Excepturi neque, ipsa animi maiores repellendus distinctio aperiam earum dolor voluptatum consequatur blanditiis",
+        "categoryStart": "A full-stack web application is built for a restaurant using the (MERN) Stack. This app allows you to navigate through the pages, checkout the dishes as well as the comments, make an online reservation and send feedback. You can register as well to make a comment and customize the list of your favorite items.",
+        "categoryEnd": "I used React, Redux as the frontend frameworks, Node/Express.js to create the REST API, JWT for user authentication and MongoDB  for data storage.",
         "image": "treaturhunger.JPG",
         "url": "https://treaturhunger.herokuapp.com/",
         "source": "https://github.com/aripan/treatUrHunger_Frontend"
       },
 
       {
+        "title": "MERN-Shop eCommerce Web App",
+        "categoryStart": "A full-stack web application is built for an eCommerce Website using the (MERN) Stack. This app allows you to navigate through the displayed product, checkout the review of the products, add items to Cart. To buy items, the user must be a registered user (or need to create one).",
+        "categoryEnd": "I used React, Redux and React Hooks for frontend, Node/Express.js to create the REST API, JWT for user authentication and MongoDB  for data storage.",
+        "image": "MERN-Shop.JPG",
+        "url": "https://e-mern-shopapp.herokuapp.com/",
+        "source": "https://github.com/aripan/MERN-eCommerce-Shop"
+      },
+
+      {
         "title": "Amazon-Clone",
-        "category": "lorem ipsum Lorem ipsum dolor sit, amet consectetur adipisicing elit. Excepturi neque, ipsa animi maiores repellendus distinctio aperiam earum dolor voluptatum consequatur blanditiis",
+        "categoryStart": "A simple and minimalistic clone of Amazon is built using React and Firebase (Backend-as-a-Service). This full-stack application allows you to see the available items, checkout an item to your basket as well as remove it from the basket.  Even the a registered user can buy the products using his/her cards.",
+        "categoryEnd": "I used React, React Hooks for frontend part, Node to create the REST API, Firebase for user authentication, Cloud Firestore for data storage.",
         "image": "amazon-clone.JPG",
         "url": "https://react--clone-c8de9.web.app/",
         "source": "https://github.com/aripan/React-Amazon-Clone"
@@ -106,7 +119,8 @@
 
       {
         "title": "My Blog App",
-        "category": "lorem ipsum Lorem ipsum dolor sit, amet consectetur adipisicing elit. Excepturi neque, ipsa animi maiores repellendus distinctio aperiam earum dolor voluptatum consequatur blanditiis (NodeJS, ExpressJS)",
+        "categoryStart": "A fully responsive Web Application that allows you to see all the listed blogs,  choose an individual blog to read its content as well as to create a new one new. This website do the basic CRUD operations.",
+        "categoryEnd": "I used HTML5, CSS3 and Vanilla Javascript in order to build this web app. Node/Express.js is being used to create the REST API and JSON to store the data.",
         "image": "myblogapp.JPG",
         "url": "https://aripan.github.io/Blog-App/",
         "source": "https://github.com/aripan/Blog-App"
@@ -114,7 +128,8 @@
 
       {
         "title": "Black Jack",
-        "category": "Black Jack Games",
+        "categoryStart": "A static web application is built to show the simplest form of Black Jack Game.",
+        "categoryEnd": "I used HTML5, CSS3, JavaScript and Bootstrap4 in order to build this game.",
         "image": "blackJack.JPG",
         "url": "https://aripan.github.io/black_jack/",
         "source": "https://github.com/aripan/black_jack"
@@ -122,18 +137,11 @@
 
       {
         "title": "Rock, Paper & Scissor",
-        "category": "lorem ipsum Lorem ipsum dolor sit, amet consectetur adipisicing elit. Excepturi neque, ipsa animi maiores repellendus distinctio aperiam earum dolor voluptatum consequatur blanditiis",
+        "categoryStart": "A static web application is built to show the simplest form of this Game.",
+        "categoryEnd": "I used HTML5, CSS3 and Vanilla Javascript in order to build this game.",
         "image": "rps.jpg",
         "url": "https://aripan.github.io/rock_paper_scissor/",
         "source": "https://github.com/aripan/rock_paper_scissor"
-      },
-
-      {
-        "title": "Project Title",
-        "category": "lorem ipsum Lorem ipsum dolor sit, amet consectetur adipisicing elit. Excepturi neque, ipsa animi maiores repellendus distinctio aperiam earum dolor voluptatum consequatur blanditiis",
-        "image": "projectToBeDone.jpg",
-        "url": "#",
-        "source": "#"
       }
     ]
   },

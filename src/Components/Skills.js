@@ -32,10 +32,10 @@ class Skills extends Component {
               <ul className="mr-5">
                 <li>HTML5</li>
                 <li>CSS3</li>
-                <li>SASS</li>
+                <li>SCSS</li>
                 <li>Bootstrap4</li>
                 <li>Javascript</li>
-                {/* <li>Ajax</li> */}
+                <li>Ajax</li>
                 <li>React</li>
                 <li>Redux</li>
               </ul>
@@ -47,11 +47,11 @@ class Skills extends Component {
               <ul className="mr-5">
                 <li>Node.js</li>
                 <li>Express.js</li>
-                <li>REST APIs</li>
+                <li>APIs (REST)</li>
                 <li>Firebase</li>
                 <li>PostgreSQL</li>
                 <li>MongoDB</li>
-                <li>Python</li>
+                {/* <li>Python</li> */}
               </ul>
             </div>
 
@@ -62,9 +62,10 @@ class Skills extends Component {
               <ul className="mr-5">
                 <li>GIt & Github</li>
                 <li>NPM</li>
-                <li>Webpack</li>
+                {/* <li>Webpack</li> */}
                 <li>Gulp</li>
                 <li>Postman</li>
+                <li>VS-Code</li>
               </ul>
             </div>
           </div>
