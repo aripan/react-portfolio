@@ -116,7 +116,7 @@ const Contact = ({ data }) => {
             <p className="address">
               {data?.name}
               <br />
-              {data?.address.street} <br />
+              {/* {data?.address.street} <br /> */}
               {data?.address.zip},{data?.address.city} <br />
               {data?.address.state}
               <br />
