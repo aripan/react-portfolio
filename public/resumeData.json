@@ -92,8 +92,8 @@
     "projects": [
       {
         "title": "TreatUrHunger Restaurant",
-        "categoryStart": "A full-stack web application is built for a restaurant using the (MERN) Stack. This app allows you to navigate through the pages, checkout the dishes as well as the comments, make an online reservation and send feedback. You can register as well to make a comment and customize the list of your favorite items.",
-        "categoryEnd": "I used React, Redux as the frontend frameworks, Node/Express.js to create the REST API, JWT for user authentication and MongoDB  for data storage.",
+        "categoryStart": "A full-stack web application is built for a restaurant using the (MERN) Stack. This web app allows you to navigate through the pages, checkout the dishes as well as the comments, make an online reservation and send feedback. You can register as well to make a comment and customize the list of your favorite items.",
+        "categoryEnd": "This web app is built using HTML5, CSS3, JS, React (frontend library), Redux (state management library), Node/Express.js (backend server), JWT (for user authentication) and MongoDB (for data storage).",
         "image": "treaturhunger.JPG",
         "url": "https://treaturhunger.herokuapp.com/",
         "source": "https://github.com/aripan/treatUrHunger_Frontend"
@@ -102,7 +102,7 @@
       {
         "title": "MERN-Shop eCommerce Web App",
         "categoryStart": "A full-stack web application is built for an eCommerce Website using the (MERN) Stack. This app allows you to navigate through the displayed product, checkout the review of the products, add items to Cart. To buy items, the user must be a registered user (or need to create one).",
-        "categoryEnd": "I used React, Redux and React Hooks for frontend, Node/Express.js to create the REST API, JWT for user authentication and MongoDB  for data storage.",
+        "categoryEnd": "This web app is built using HTML5, CSS3, JS, React & React Hooks (frontend library), Redux (state management library), Node/Express.js (backend server), JWT (for user authentication), PayPal API (as payment gateway) and MongoDB (for data storage).",
         "image": "MERN-Shop.JPG",
         "url": "https://e-mern-shopapp.herokuapp.com/",
         "source": "https://github.com/aripan/MERN-eCommerce-Shop"
@@ -111,7 +111,7 @@
       {
         "title": "Amazon-Clone",
         "categoryStart": "A simple and minimalistic clone of Amazon is built using React and Firebase (Backend-as-a-Service). This full-stack application allows you to see the available items, checkout an item to your basket as well as remove it from the basket.  Even the a registered user can buy the products using his/her cards.",
-        "categoryEnd": "I used React, React Hooks for frontend part, Node to create the REST API, Firebase for user authentication, Cloud Firestore for data storage.",
+        "categoryEnd": "This web app is built using HTML5, CSS3, JS, React & React Hooks (frontend library), Node/Express.js (backend server), Firebase (for user authentication), Stripe API (as payment gateway) and Cloud Firestore (for data storage).",
         "image": "amazon-clone.JPG",
         "url": "https://react--clone-c8de9.web.app/",
         "source": "https://github.com/aripan/React-Amazon-Clone"
@@ -120,7 +120,7 @@
       {
         "title": "My Blog App",
         "categoryStart": "A fully responsive Web Application that allows you to see all the listed blogs,  choose an individual blog to read its content as well as to create a new one new. This website do the basic CRUD operations.",
-        "categoryEnd": "I used HTML5, CSS3 and Vanilla Javascript in order to build this web app. Node/Express.js is being used to create the REST API and JSON to store the data.",
+        "categoryEnd": "I used HTML5, CSS3 and Vanilla Javascript in order to build this web app. Node/Express.js is being used to create the API endpoints and JSON to store the data.",
         "image": "myblogapp.JPG",
         "url": "https://aripan.github.io/Blog-App/",
         "source": "https://github.com/aripan/Blog-App"

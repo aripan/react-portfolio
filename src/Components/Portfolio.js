@@ -13,13 +13,13 @@ class Portfolio extends Component {
                 <div className="overlay">
                   <div className="portfolio-item-meta">
                     <h5>{projects.title}</h5>
-                    <p>
+                    {/* <p>
                       <br />
                       {projects.categoryStart}
                       <br />
                       <br />
                       {projects.categoryEnd}
-                    </p>
+                    </p> */}
                   </div>
                 </div>
 
@@ -30,6 +30,17 @@ class Portfolio extends Component {
             </div>
 
             <div className="source-code">
+              <h5>{projects.title}</h5>
+              <div style={{ color: "#444" }}>{projects.categoryStart}</div>
+              <div
+                style={{
+                  color: "#000",
+                  fontWeight: "600",
+                  fontStyle: "italic",
+                }}
+              >
+                {projects.categoryEnd}
+              </div>
               <a href={projects.source} target="_blank">
                 {" "}
                 <span>
